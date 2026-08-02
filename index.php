@@ -10,7 +10,7 @@
 </head>
 
 <body>
-my name is omar
+my name is omar Faruk
 </body>
 
 </html>
